@@ -1,0 +1,8 @@
+The blog post explains that the request is reaching the server IP on port HTTPS 443
+The blog post explains that the traffic is encrypted using HTTPS/SSL certificate
+The blog post mentions that the request is answered by a web server serving the page
+The blog post explains that the request is distributed by the load-balancer to a web server
+The blog post explains that the request is passing through the firewall that accepts traffic on port TCP/443
+The blog post explains that the application server will generate the page
+The blog post explains that the application server queries the database to gather necessary data
+
