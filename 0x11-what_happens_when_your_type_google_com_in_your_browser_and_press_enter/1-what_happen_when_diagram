@@ -1,0 +1,9 @@
+. Everything's better with a pretty diagram
+The blog post contains a diagram
+The blog post explains that DNS resolves www.google.com to another hostname or IP address
+The diagram shows that the request is reaching the server IP on port HTTPS 443
+The diagram shows that the traffic is encrypted using HTTPS/SSL certificate
+The diagram shows that the request is answered by a web server serving the page
+The diagram shows that the request is distributed by the load-balancer to a web server
+The diagram shows that request is passing through the firewall that accepts traffic on port TCP/443
+
